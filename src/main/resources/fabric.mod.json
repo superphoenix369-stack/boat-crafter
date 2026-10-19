@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "boatbase",
+  "version": "${version}",
+  "name": "Boat Base",
+  "description": "Craft a boat base (blast furnace engine), build on it, sail it. More blocks = slower boat.",
+  "authors": [],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.boatbase.BoatBaseMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
