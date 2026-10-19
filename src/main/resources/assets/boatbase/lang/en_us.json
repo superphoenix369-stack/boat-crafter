@@ -1,0 +1,15 @@
+{
+  "block.boatbase.boat_base": "Boat Engine",
+  "block.boatbase.ship_wheel": "Dark Oak Ship's Wheel",
+  "block.boatbase.ship_wheel_oak": "Oak Ship's Wheel",
+  "block.boatbase.ship_wheel_spruce": "Spruce Ship's Wheel",
+  "block.boatbase.ship_wheel_birch": "Birch Ship's Wheel",
+  "block.boatbase.ship_wheel_jungle": "Jungle Ship's Wheel",
+  "block.boatbase.ship_wheel_acacia": "Acacia Ship's Wheel",
+  "block.boatbase.ship_wheel_mangrove": "Mangrove Ship's Wheel",
+  "block.boatbase.ship_wheel_cherry": "Cherry Ship's Wheel",
+  "block.boatbase.ship_wheel_pale_oak": "Pale Oak Ship's Wheel",
+  "block.boatbase.ship_wheel_bamboo": "Bamboo Ship's Wheel",
+  "block.boatbase.ship_wheel_crimson": "Crimson Ship's Wheel",
+  "block.boatbase.ship_wheel_warped": "Warped Ship's Wheel"
+}
