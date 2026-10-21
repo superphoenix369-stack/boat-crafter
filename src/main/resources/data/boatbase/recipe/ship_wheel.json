@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SPS",
+    "PIP",
+    "SPS"
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "P": "minecraft:dark_oak_planks",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "boatbase:ship_wheel",
+    "count": 1
+  }
+}
