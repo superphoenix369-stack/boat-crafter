@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=south": {
+   "model": "boatbase:block/ship_wheel_crimson"
+  },
+  "facing=west": {
+   "model": "boatbase:block/ship_wheel_crimson",
+   "y": 90
+  },
+  "facing=north": {
+   "model": "boatbase:block/ship_wheel_crimson",
+   "y": 180
+  },
+  "facing=east": {
+   "model": "boatbase:block/ship_wheel_crimson",
+   "y": 270
+  }
+ }
+}
